@@ -1,0 +1,442 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<title>ASL font (American Sign Language fingerspelling font)</title>
+<meta name="keywords" content="font, fingerspelling, fingerspell, handshapes, hands, typing, download, gallaudet, true, type, trutype, American, Sign, Language, ASL, learn, Deaf, signing, signed,">
+<meta name="description" content="How can you type in American Sign Language (ASL) fingerspelling handshapes? Instructions.">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta HTTP-EQUIV="Content-Language" CONTENT="en-us">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="William Vicars">
+<meta name="robots" content="index,follow">
+<META NAME="distribution" CONTENT="Global">
+<META NAME="revisit-after" CONTENT="30 days">
+<META NAME="copyright" CONTENT="Copyright 2002-2017 Lifeprint.com">
+<style TYPE="text/css">A {text-decoration: none} a:hover{color:#000033; background-color: yellow} p {margin-top:0px; margin-bottom:0px; font-family: Arial, Helvetica, sans-serif;} margin-right: 0</style>
+</head>
+<body hspace="0" topmargin="0" bgcolor="#FFFFFF" marginwidth="0" font face="Arial">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 728x90-leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2513564923850231"
+     data-ad-slot="7543121294"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<hr color="#000000" size="1" align="left">
+<p align="right">
+<a href="../lessons/lessons.htm">ASL Lessons</a> | 
+<a href="../../bookstore/bookstore.htm">Bookstore </a>|
+<a href="../pages-layout/topics.htm">Library</a> |<a style="text-decoration: none" target="_top" href="../../index.htm">&nbsp;ASL University 
+Main &#9658;</a></font></p>
+<hr color="#000000" size="1" align="left" width="100%">
+<div style="display:block;float:right;margin: 5px 5px 5px 20px;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ASL (American Sign Language) 160 x 600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-2513564923850231"
+     data-ad-slot="4979558599"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<blockquote>
+<h1 style="margin-top: 0; margin-bottom: 0">
+		<font face="Arial"><font size="5"><span style="font-weight: 400">ASL 
+		Font: Type using handshapes: <br>
+		</span></font><span style="font-weight: 400"><font face="Arial" size="3">&quot;Gallaudet TrueType&quot; Fingerspelling Font</font></span><br>
+		</h1>
+
+
+<p>
+<br>
+<a href="../fingerspelling/gallaudet/GALLAUDET.ttf" style="text-decoration: none">
+		&#9658; Download &quot;Gallaudet TrueType&quot; font (gallaudet.ttf)</a>&nbsp; 
+		<br>
+<span style="font-size: 12.0pt; color: black">
+    <br>
+    The Gallaudet TrueType
+    </span>&nbsp;font allows you to use your keyboard to type messages that 
+	appear as fingerspelling on your computer screen and that you can print out.&nbsp; 
+	Note: If you want to send fingerspelled messages to your friend then your 
+	friend has to have the Gallaudet font installed on their machine too in 
+	order for the message to show up as fingerspelling. The font may be used for learning sign language, 
+	correspondence using sign language, or whatever purpose you dream up. <br>
+	<br>
+	The &quot;Gallaudet Font&quot; comes to you from Insect Bytes and is copyright (c) 1991 by David Rakowski. All Rights Reserved. Used with permission.&nbsp; If you like 
+	and/or use this font, please make a substantial contribution to the charity 
+	of your choice. (For example, 
+	<a href="../../donate.htm" style="text-decoration: none">ASL University</a>.)&nbsp;&nbsp;<br>
+	<br><a href="../../donate.htm" style="text-decoration: none">
+	<img border="0" src="../images-layout/donate-button.jpg" width="110" height="38" align="left"></a>
+	(That button takes you to the ASL University donation 
+	page.)<br>
+	<br>
+	<br>
+	Here is a sample of what the letters look like:<br>
+	<br>
+	<a href="../fingerspelling/gallaudet/GALLAUDET.ttf" style="text-decoration: none">
+    <img src="../images-layout/exampleofgallaudetfont.gif" width="433" height="387" border="0"></a><br>
+&nbsp;<hr color="#800080" width="260" size="1" align="left">
+	
+<p style="margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a href="../fingerspelling/gallaudet/GALLAUDET.ttf" style="text-decoration: none">&nbsp;&nbsp; &#9658; Download the font </a>
+	</font>
+	</p>
+			<hr color="#800080" width="260" size="1" align="left">
+    		<p align="left" style="margin-top: 0; margin-bottom: 0"><br>
+			Installation Instructions:</p>
+			<p align="left" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+				<p class="MsoNormal" style="MARGIN: 0in 0in 0pt">
+				<b>For Windows 10</b>:<br>
+				1 - Click on Download the Font link.&#8203;<br>
+				2 - You will be asked what you want to do with the download.&#8203;<br>
+				3 - Click Open.&#8203;<br>
+				4 - The font will be displayed in variety of sizes.&#8203;<br>
+				5 - Click Install.<br>
+				If you have any problems, check to make sure you are logged on 
+				as an administrator and/or if it asks for administrator 
+				permission grant it.&nbsp; Also, try restarting your device.</p>
+			<p class="MsoNormal" style="margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: 0pt">&nbsp;</p>
+			<hr color="#800080" width="260" size="1" align="left">
+
+		
+<p>(For more installation instructions, see below)<br>
+&nbsp;<hr color="#000000" size="1" align="left">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2513564923850231";
+/* 728x15_link_ads_adsense1_bottom */
+google_ad_slot = "2289748297";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<p align="center" style="margin-top: 0; margin-bottom: 0"></p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2513564923850231";
+/* 728x15_link_ads_adsense1_bottom */
+google_ad_slot = "2289748297";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<p align="center" style="margin-top: 0; margin-bottom: 0"></p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2513564923850231";
+/* 728x15_link_ads_adsense1_bottom */
+google_ad_slot = "2289748297";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+		
+<hr color="#000000" size="1" align="left">
+
+&nbsp;<p>Notes:&nbsp; <br>
+&nbsp;</p>
+			<p align="left" style="margin-top: 0; margin-bottom: 0">Instructions 
+			for <b>older</b> Windows Operating systems:</p>
+			<p align="left" style="margin-top: 0; margin-bottom: 0">To manually 
+			install or re-install a font: <br>
+			1. Click the &quot;Window&quot; key and hold it down while you click the &quot;R&quot; 
+			key -- which should open up a &quot;run&quot; dialog window.<br>
+			2. Type %windir%\fonts, and then click OK. <br>
+			3. On the File menu, click Install New Font.&nbsp;
+			If you do not see the &quot;install new font&quot; option...check to see if you are logged on with &quot;administrative 
+	privileges.&quot;<br>
+			4. In the Drives box, click the drive that has the floppy or CD-ROM 
+			that contains the fonts you want to add. If you are installing fonts 
+			from a floppy disk, this is typically drive A or drive B. If you are 
+			installing the fonts from a compact disc, your CD-ROM drive is 
+			typically drive D. Double-click the folder that contains the fonts.<br>
+			5. Click the font you want to add. To select more than one font at a 
+			time, press and hold down the CTRL key while you click each font.
+			<br>
+			6. Click to select the Copy Fonts To Fonts Folder check box. The 
+			Windows\Fonts folder is where the fonts that are included with 
+			Windows are stored. <br>
+			7. Click OK. <br>
+&nbsp;</p><p align="center">
+
+    <img border="0" src="../images-layout/gallau1.jpg" width="521" height="487"></p>
+    <hr color="#800080" width="80%" size="1" align="left">
+    <p>
+
+    Steve @tstar.net writes:<br>
+    Dear Dr.
+    Bill,<br>
+    I was trying to download this file but instead of download directions, I was
+    shown the file itself.&nbsp;
+    How can I download it?<br>
+    - Steve</p>
+    <hr color="#800080" width="80%" size="1" align="left">
+    <p>Steve,<br>
+    Try this:<br>
+    <b><i>Right</i></b> click on the download font link. (<i>Not</i> Left click)<br>
+    Then when you see the menu that appears, click on &quot;Save Target As&quot;<br>
+    Then when you get a box asking you where you want to save it and what you 
+    want to call it...save it to your c:\windows\fonts directory.<br>
+    Then reboot your computer and open up your word processor. It should show up 
+    in your list of available fonts in your word processor.<br>
+    - Dr.
+    Bill</p>
+    <hr color="#800080" width="80%" size="1" align="left">
+    <p>Dr Bill,<br>
+	Thanks for the directions,<br>
+    I had been <i>left-clicking</i> instead of 
+    right and such was my trouble. No more. Downloaded the file and have 
+    installed it in the 'fonts' section of Windows. Your directions were 
+    perfect. 
+    <br>
+    Thanks,<br>
+    - Steve </p>
+    <hr color="#800080" width="80%" size="1" align="left">
+    <p>In a message dated (a frigging long time ago) 8:03:05 AM Pacific Daylight Time, a
+    student&nbsp; writes:<br>
+    <br>
+    Good Morning!<br>
+    My name is Willie Jackie Mitchell, am Deaf Person. I think  it is great ASL
+    University...<br>
+    I have been looking for ABC's Fingerspelling CD-ROM... For example, I type words  said, "Rainbow" and it fingerspell out  of  "Rainbow" on the paper, Do you understand what I am try explain?  Do you have ABC's Fingerspelling?   I would like to have CD-ROM because CD-ROM  is much easier to install better than download the file of ABC's Fingerspelling...<br>
+    Let me know about ABC's Fingerspelling CD-ROM.&nbsp;<br>
+    Thank you for your time and Have a nice day.<br>
+    Willie Mitchell <br>
+&nbsp;</p>
+    <hr color="#800080" width="80%" size="1" align="left">
+    <p><br>
+	Willie,<br>
+    I do understand what you are asking but I don't know where you'd get one of 
+	those CDs. I'm pretty sure they are out of publication (not being made any 
+	more).&nbsp; <br>
+	<br>
+	If you want to try downloading the font, here are some
+    suggestions:<br>
+	<br>
+    Download the file: 
+	<a href="../fingerspelling/gallaudet/GALLAUDET.ttf" style="text-decoration: none">  gallaudet.ttf</a> and 
+	save it somewhere that you can find it again.&nbsp;<br>
+    Then click "Start", "Settings", "Control Panel". Then double click fonts. From the menu, click File, Install New Font.&nbsp;<br>
+    The "Add Fonts" dialog box appears. You'll need to navigate to and select the gallaudet.ttf file.&nbsp;<br>
+	After which I suggest you restart your computer.<br>
+    Then go to your word processing program and select the gallaudet font.  Begin typing and it should look like little fingerspelling handshapes.  I suggest making the font size 36 or bigger so you can see the handshapes clearly.<br>
+    - Dr.
+    Bill<br>
+&nbsp;</p>
+    <p></p>
+    <hr color="#800080" width="80%" size="1" align="left">
+    <p><br>
+	In a message dated (a long time ago) 8:05:36 PM Central Standard Time, a student 
+    writes:<br>
+	<br>
+    &quot;Ok....&nbsp;I tried to download the fonts and I
+    couldn't get it to open once I downloaded it. Any suggestions?&quot;</p>
+    <p>&nbsp;</p>
+    <hr color="#800080" width="80%" size="1" align="left">
+    <p><br>
+	Response:&nbsp; Try downloading the file again, and this time make a note of the location 
+	it is downloading to.&nbsp; The file you downloaded then needs to be put into your operating system's 
+	FONTS folder. You can 
+    do a search for that folder using your computer's search function. Or go to 
+	your run line and type the word &quot;fonts&quot; and click okay.&nbsp; Open up your FONTS folder. 
+	Make sure you have placed the gallaudet file into the folder and can see it. Then click 
+    on the &quot;FILE&quot; menu and look for an &quot;Install New Font...&quot; menu choice. Click 
+    on that and then navigate to the font file you want to install. Then double 
+    click that file.<br>
+    Sometimes you get a message stating that the file has &quot;already been 
+	installed.&quot; That's okay, go through the whole install process anyway to 
+	make sure the file gets registered in your operating system the right way.<br>
+&nbsp;</p>
+    <hr color="#800080" width="80%" size="1" align="left">
+    <p><br>
+	A student says:&nbsp;&nbsp; When I start the following &quot;Start&quot;, Settings, Control
+    Panel and then double click on fonts, The Install new
+    font doesn't come up. I'll keep trying though.</p>
+    <p>Dr. Bill's response:&nbsp; You are almost there.&nbsp; 
+	Check to make sure you are logged in as an administrator or else you might 
+	not have permission to install the font and your computer might not show the 
+	font installation option to you.&nbsp; 
+    <br>
+    Open/Click &quot;Start&quot;, &quot;Settings&quot;, &quot;Control Panel&quot;. Then
+    double click fonts. THEN, from
+    the menu selections at the top of the window, click <i><b>File, Install New Font</b></i>. 
+    <br>
+    The &quot;Add Fonts&quot; dialog box appears. You'll need to
+    navigate to and select the
+    gallaudet file.<br>
+    Then go to your word processing program and select
+    the gallaudet font.&nbsp; You may need to shut down and restart before it 
+	shows up as a font choice in your word processing program's list of fonts.</p>
+    <hr color="#800080" width="80%" size="1" align="left">
+    <p>In a message dated (a long time ago) 5:09:09 PM Central Daylight Time, kcdrummond@_____.com 
+    writes:<br>
+    <br>
+    Dear Dr. Bill:<br>
+    I recently cruised your site and found mention of the gallaudet font. I 
+    downloaded that font to my font folders and all works well inside of my 
+    &quot;MS Works&quot; word processor. However, when I select this text to copy to emails it 
+    automatically changes to an English font. Is there anyway I can keep that gallaudet font to send in e mails?<br>
+    Thanks<br>
+    Cheryl </p>
+    <p>Hi Cheryl,<br>
+    This has to do with the settings in your email program. Most email programs 
+	have a default setting that determines what font is displayed.&nbsp; After 
+	installing the fingerspelling font, you can go to your emails preferences or 
+	settings menu and select &quot;gallaudet.&quot;&nbsp;
+    I'm sending this reply in gallaudet type font. I'm using AOL and in my email 
+    program it looks like handshapes. I did have to set the font from within the 
+    email program itself. I also had to enlarge the size to make 
+    it big enough to read. So you might want to check to see if your email 
+    program has a way to choose the font. Whomever receives your message will 
+	only see the fingerspelling if they too have downloaded the font.&nbsp;The 
+	other person has to have the font installed and selected or the font will 
+	just change back to their default font.&nbsp;&nbsp; They 
+	may also have to adjust their emails preferences to display messages using 
+	that font.<br>
+    Dr.
+    Bill <br>
+    [Note:&nbsp; The above text was changed back to regular font for this 
+    web page.]</p>
+    <hr color="#800080" width="80%" size="1" align="left">
+    <p>In a message dated 9/5/2003 7:44:30 AM Pacific Daylight Time, 
+    Vicki 
+    writes:<br>
+    &lt;&lt;I still have some trouble getting ASL fingerspelling fonts set up in my 
+    e-mail or word processing so I could write my own homework for my class or 
+    to the loved one. &gt;&gt;<br>
+    <br>
+    Vicki,<br>
+    About the <i>emailing</i> of ASL fonts: It won't work unless the other 
+	person has that same font installed on their system. If you have it 
+	installed it will look right on your screen when you click the send button, 
+	but not show up in the receivers email because THEIR system doesn't have the 
+	font installed and selected as a default font for incoming email messages--it 
+    will be converted to their normal font).<br>
+    <br>
+    Also, some people who are using the &quot;Windows ME&quot; operating system can't find their font folder 
+    that should be in their C:\windows\ file. Or if it is, they don't see an 
+    &quot;Install New Font&quot; choice under the &quot;File&quot; menu. If that is your situation 
+    and you are using a Microsoft Windows operating system, click the &quot;START&quot; 
+    button. Then click &quot;RUN.&quot; In the RUN dialog box, type: Attrib +S 
+    C:\Windows\Fonts and then click OK. You might need to restart your computer 
+    then check to see if the Fonts folder or Install New Font option appears.</p>
+    <p>An other option for additional help on installing the ASL font is to take 
+    advantage of your computer's help menus. Look for a &quot;Help&quot; or &quot;Help and 
+    Support&quot; button in your &quot;Start&quot; menu.</p>
+    <p>Dr. Bill</p>
+    <hr color="#800080" width="80%" size="1" align="left">
+    <p>Instructions for installing this font to Macs:<br>
+	<br>
+	Katie (who uses a Mac) writes:<br>
+	In a message dated 4/20/2012 5:06:00 P.M. Pacific Daylight Time, kkutch87 
+	writes:<br>
+	<br>
+	I got it to work on my computer!! <br>
+	What I did was download the
+	<a href="../fingerspelling/gallaudet/GALLAUDET.ttf" style="text-decoration: none">file</a> and it 
+	automatically goes into your &quot;font book&quot;. From there I had different sub 
+	sections of fonts like 'English', 'Fun', 'Web' etc, so from there in order 
+	to make the Gallaudet font appear on a Word doc, I had to drag it over to 
+	one of those sub sections (I put mine in the fun section) and from there it 
+	showed up on the list of fonts when in Word!<br>
+	<br>
+	Thank you Dr. Vicars for the hook up! :)<br>
+	- Katie</p>
+    <hr color="#800080" width="80%" size="1" align="left">
+    		<p>Kyle Richtig sent me the following instructions for installing the Gallaudet 
+	truetype font to Apple computers:<br>
+	<br>
+    1. Download the font by using the Mac Version of right click. (Hold down 
+    ctrl and click so the menu comes up). <br>
+    2. Choose Download Link to Disk. <br>
+    3. Drag this file (GALLAUDET.ttf) from the saved location to the Fonts 
+    Folder (Home&gt;Library&gt;Fonts). <br>
+    4. If this did not install the font, you may have to double click the file 
+    once it is in your Font Folder. This will automatically install it in your 
+    Font Book.</p>
+			<div>
+		<div>
+			Note: Some people who are on &quot;very old&quot; macs 
+			and those that use the &quot;Stuffit&quot; expander might have better results 
+			with this older version of the file:
+			<br>
+			<a href="../fingerspelling/gallaudet/gallaudet.sit" style="text-decoration: none">
+			&#9658; Download OLD Mac 
+	Version</a>: <br>
+			(<a href="http://www.lifeprint.com/asl101/fingerspelling/gallaudet/gallaudet.sit" style="text-decoration: none">http://www.lifeprint.com/asl101/fingerspelling/gallaudet/gallaudet.sit</a>)<br>
+			The &quot;.sit&quot; 
+			extension on the file denotes a &quot;stuffit&quot; extension which means that 
+			the file is indeed &quot;compressed&quot; and needs to be decompressed with an 
+			&quot;expander&quot;-type program. (Google &quot;stuffit&quot;) Often (especially on newer systems) 
+			decompression takes place automatically.<br>
+			-- Dr. Bill<p>&nbsp;</p>
+			<hr color="#800080" width="260" size="1" align="left">
+			<p><br>
+			Also see:
+		<a href="../fingerspelling/fingerspelling.htm" style="text-decoration: none">Fingerspelling 1 </a>
+		<a href="../fingerspelling/fingerspelling2.htm" style="text-decoration: none">2</a><a href="../fingerspelling/fingerspelling3.htm" style="text-decoration: none"> 3</a><a href="../fingerspelling/fingerspelling4.htm" style="text-decoration: none"> 4</a><a href="../fingerspelling/fingerspelling5.htm" style="text-decoration: none"> 5</a><a href="../fingerspelling/fingerspelling6.htm" style="text-decoration: none"> 6</a><a href="../fingerspelling/fingerspelling7.htm" style="text-decoration: none"> 
+		7</a> <br>
+&nbsp;</div>
+	</div>
+
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+<hr color="#000000" size="1" align="left">
+</p>
+
+<hr color="#000000" size="1" align="left">
+
+<p style="margin-top: 0; margin-bottom: 0"><br>
+*&nbsp;
+Want to help support ASL University?&nbsp; It's <i>easy</i>:&nbsp;</font><b> 
+<a rel="nofollow" target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XHRNABERKJT4N">
+<u>DONATE</u></a></b><font size="2">&nbsp; (<i>Thanks!</i>)</font><br>
+<br>
+		<font face="Arial">
+		*&nbsp; </font>Another way to help is to buy something from Dr. Bill's &quot;<b><a href="../../bookstore/bookstore.htm"><u>Bookstore</u></a></b>.&quot; </font></p>
+<p style="margin-top: 0; margin-bottom: 0">
+<br>
+		<font face="Arial">
+		*&nbsp; </font>Want even more ASL resources?&nbsp; Visit the &quot;<b><a rel="nofollow" target="_blank" href="http://www.asl.tc/landing/index.html">ASL Training Center</a>!</b>&quot;&nbsp; (Subscription 
+Extension of ASLU)&nbsp;&nbsp; <br>
+<br>
+</font>*&nbsp; Also check out Dr. Bill's channel:
+		<a href="https://www.youtube.com/billvicars">www.youtube.com/billvicars</a>
+		</font><font size="2"> <br>
+&nbsp;</font></p>
+<hr color="#000000" size="1" align="left">
+			<p style="margin-top: 0; margin-bottom: 0" align="center">
+	
+		<font size="1">You can learn <a href="http://lifeprint.com">American Sign Language (ASL)</a> online at American Sign Language University �&nbsp;
+		<br>
+		<a style="text-decoration: none" href="http://asl.ms">ASL</a> resources by Lifeprint.com&nbsp; �&nbsp; Dr. William Vicars&nbsp; </font>&nbsp;</font></p>
+<hr color="#000000" size="1">
+</font>
+
+<p></p>
+	</blockquote>
+<div style="display:block;float:right;margin: 5px 5px 5px 20px;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280 bottom of page ASL American Sign Language -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-2513564923850231"
+     data-ad-slot="6501232513"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<!-- Comments can go here. ASL or American Sign Language-->
+	</body></html>
